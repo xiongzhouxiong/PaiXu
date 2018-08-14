@@ -7,6 +7,8 @@ public class kuaisu1 {
         int[] array = {4,7,6,5,3,2,8,1};
 
         System.out.println(Arrays.toString(array));
+        System.out.println("1111111111111111");
+
 
     }
     public static void fenge(int arrat[]){
